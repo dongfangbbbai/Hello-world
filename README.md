@@ -1,2 +1,3 @@
 # Hello-world
-learn how to use it
+学习如何使用它
+学习分支
